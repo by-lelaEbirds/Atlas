@@ -73,20 +73,6 @@
     "content": "CONTRATO DE PRESTAÇÃO DE SERVIÇOS DIGITAIS\nObjeto: Desenvolvimento de software...\nCondições de pagamento: Mensal...\nPrazo: 12 meses..."
   },
   {
-    "id": 6,
-    "title": "Petição de Divórcio Consensual",
-    "type": "Petição",
-    "tags": [
-      "divórcio",
-      "família",
-      "consensual",
-      "acordo"
-    ],
-    "date": "2023-09-01",
-    "env": "onprem",
-    "content": "EXMO. SR. DR. JUIZ DE DIREITO DA VARA DE FAMÍLIA...\nRequerem a homologação do divórcio consensual...\nAcordo sobre bens e guarda dos filhos..."
-  },
-  {
     "id": 7,
     "title": "Contestação - Ação de Cobrança Indevida",
     "type": "Contestação",
