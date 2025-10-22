@@ -13,7 +13,7 @@
     ],
     "date": "2024-06-12",
     "env": "onprem",
-    "content": "EXMO. SR. DR. JUIZ DE DIREITO...\\n1. Dos fatos: O autor adquiriu um fogão...\\n2. Do vício: verifica-se que o forno apresentou defeito...\\n3. Do direito: aplica-se o CDC art. 18 e 26...\\n4. Do pedido: seja julgada improcedente a ação..."
+    "content": "EXMO. SR. DR. JUIZ DE DIREITO...\n1. Dos fatos: O autor adquiriu um fogão...\n2. Do vício: verifica-se que o forno apresentou defeito...\n3. Do direito: aplica-se o CDC art. 18 e 26...\n4. Do pedido: seja julgada improcedente a ação..."
   },
   {
     "id": 2,
@@ -28,7 +28,7 @@
     ],
     "date": "2023-11-03",
     "env": "onprem",
-    "content": "CONTRATO DE COMPRA E VENDA\\nCláusula 1: As partes...\\nCláusula 2: Garantia mínima de 6 meses...\\nCláusula 3: Responsabilidades..."
+    "content": "CONTRATO DE COMPRA E VENDA\nCláusula 1: As partes...\nCláusula 2: Garantia mínima de 6 meses...\nCláusula 3: Responsabilidades..."
   },
   {
     "id": 3,
@@ -42,7 +42,7 @@
     ],
     "date": "2025-01-10",
     "env": "cloud",
-    "content": "PETIÇÃO INICIAL\\nO autor, por seu advogado, vem propor ação de troca...\\nFatos: em data X adquiriu um fogão que apresentou defeito no forno..."
+    "content": "PETIÇÃO INICIAL\nO autor, por seu advogado, vem propor ação de troca...\nFatos: em data X adquiriu um fogão que apresentou defeito no forno..."
   },
   {
     "id": 4,
@@ -56,6 +56,426 @@
     ],
     "date": "2022-08-22",
     "env": "onprem",
-    "content": "PARECER\\nQuestão: enquadramento da responsabilidade do fornecedor...\\nResumo: o fornecedor responde independentemente de culpa..."
+    "content": "PARECER\nQuestão: enquadramento da responsabilidade do fornecedor...\nResumo: o fornecedor responde independentemente de culpa..."
+  },
+  {
+    "id": 5,
+    "title": "Contrato de Prestação de Serviços Digitais",
+    "type": "Contrato",
+    "tags": [
+      "serviços",
+      "digitais",
+      "contrato",
+      "tecnologia"
+    ],
+    "date": "2024-03-15",
+    "env": "cloud",
+    "content": "CONTRATO DE PRESTAÇÃO DE SERVIÇOS DIGITAIS\nObjeto: Desenvolvimento de software...\nCondições de pagamento: Mensal...\nPrazo: 12 meses..."
+  },
+  {
+    "id": 6,
+    "title": "Petição de Divórcio Consensual",
+    "type": "Petição",
+    "tags": [
+      "divórcio",
+      "família",
+      "consensual",
+      "acordo"
+    ],
+    "date": "2023-09-01",
+    "env": "onprem",
+    "content": "EXMO. SR. DR. JUIZ DE DIREITO DA VARA DE FAMÍLIA...\nRequerem a homologação do divórcio consensual...\nAcordo sobre bens e guarda dos filhos..."
+  },
+  {
+    "id": 7,
+    "title": "Contestação - Ação de Cobrança Indevida",
+    "type": "Contestação",
+    "tags": [
+      "cobrança",
+      "indevida",
+      "contestação",
+      "consumidor"
+    ],
+    "date": "2024-01-20",
+    "env": "cloud",
+    "content": "EXMO. SR. DR. JUIZ DE DIREITO...\nO réu apresenta contestação à ação de cobrança...\nAlega inexistência do débito..."
+  },
+  {
+    "id": 8,
+    "title": "Parecer sobre LGPD e Tratamento de Dados",
+    "type": "Parecer",
+    "tags": [
+      "lgpd",
+      "dados",
+      "privacidade",
+      "compliance"
+    ],
+    "date": "2024-07-01",
+    "env": "cloud",
+    "content": "PARECER JURÍDICO\nAnálise da conformidade com a LGPD...\nRecomendações para tratamento de dados pessoais..."
+  },
+  {
+    "id": 9,
+    "title": "Contrato de Locação Residencial",
+    "type": "Contrato",
+    "tags": [
+      "locação",
+      "residencial",
+      "imóvel",
+      "aluguel"
+    ],
+    "date": "2023-05-10",
+    "env": "onprem",
+    "content": "CONTRATO DE LOCAÇÃO\nLocador: Fulano de Tal\nLocatário: Ciclano de Tal\nObjeto: Imóvel residencial na Rua X..."
+  },
+  {
+    "id": 10,
+    "title": "Petição de Alimentos Provisórios",
+    "type": "Petição",
+    "tags": [
+      "alimentos",
+      "provisórios",
+      "família",
+      "filhos"
+    ],
+    "date": "2024-02-28",
+    "env": "onprem",
+    "content": "EXMO. SR. DR. JUIZ DE DIREITO DA VARA DE FAMÍLIA...\nRequer a fixação de alimentos provisórios...\nNecessidade do menor e possibilidade do alimentante..."
+  },
+  {
+    "id": 11,
+    "title": "Contestação - Indenização por Danos Morais",
+    "type": "Contestação",
+    "tags": [
+      "danos morais",
+      "indenização",
+      "contestação",
+      "responsabilidade"
+    ],
+    "date": "2024-04-05",
+    "env": "cloud",
+    "content": "EXMO. SR. DR. JUIZ DE DIREITO...\nO réu contesta a ação de indenização...\nAlega ausência de nexo causal e culpa..."
+  },
+  {
+    "id": 12,
+    "title": "Parecer sobre Holding Familiar",
+    "type": "Parecer",
+    "tags": [
+      "holding",
+      "familiar",
+      "planejamento",
+      "sucessório"
+    ],
+    "date": "2024-08-10",
+    "env": "cloud",
+    "content": "PARECER JURÍDICO\nViabilidade e benefícios da constituição de holding familiar...\nAspectos tributários e sucessórios..."
+  },
+  {
+    "id": 13,
+    "title": "Contrato Social de Sociedade Limitada",
+    "type": "Contrato",
+    "tags": [
+      "contrato social",
+      "sociedade",
+      "limitada",
+      "empresa"
+    ],
+    "date": "2023-10-20",
+    "env": "onprem",
+    "content": "CONTRATO SOCIAL\nNome da empresa: ABC Soluções Ltda.\nSócios: João e Maria\nObjeto social: Prestação de serviços..."
+  },
+  {
+    "id": 14,
+    "title": "Petição de Curatela",
+    "type": "Petição",
+    "tags": [
+      "curatela",
+      "incapacidade",
+      "interdição",
+      "família"
+    ],
+    "date": "2024-03-01",
+    "env": "onprem",
+    "content": "EXMO. SR. DR. JUIZ DE DIREITO DA VARA DE FAMÍLIA...\nRequer a nomeação de curador para Fulano de Tal...\nLaudo médico anexo..."
+  },
+  {
+    "id": 15,
+    "title": "Contestação - Ação de Despejo",
+    "type": "Contestação",
+    "tags": [
+      "despejo",
+      "locação",
+      "contestação",
+      "imóvel"
+    ],
+    "date": "2024-05-18",
+    "env": "cloud",
+    "content": "EXMO. SR. DR. JUIZ DE DIREITO...\nO réu apresenta contestação à ação de despejo...\nAlega purgação da mora e irregularidades..."
+  },
+  {
+    "id": 16,
+    "title": "Parecer sobre Implantação de Compliance",
+    "type": "Parecer",
+    "tags": [
+      "compliance",
+      "integridade",
+      "ética",
+      "governança"
+    ],
+    "date": "2024-09-01",
+    "env": "cloud",
+    "content": "PARECER JURÍDICO\nBenefícios e etapas para implantação de programa de compliance...\nLegislação aplicável..."
+  },
+  {
+    "id": 17,
+    "title": "Termo de Confidencialidade (NDA)",
+    "type": "Contrato",
+    "tags": [
+      "nda",
+      "confidencialidade",
+      "segredo",
+      "informação"
+    ],
+    "date": "2023-12-01",
+    "env": "onprem",
+    "content": "TERMO DE CONFIDENCIALIDADE\nAs partes acordam manter em sigilo informações...\nPenalidades por quebra de sigilo..."
+  },
+  {
+    "id": 18,
+    "title": "Petição de Inventário Extrajudicial",
+    "type": "Petição",
+    "tags": [
+      "inventário",
+      "extrajudicial",
+      "herança",
+      "sucessão"
+    ],
+    "date": "2024-01-05",
+    "env": "onprem",
+    "content": "REQUERIMENTO DE INVENTÁRIO EXTRAJUDICIAL\nRequerem a lavratura de escritura pública de inventário...\nPartilha de bens..."
+  },
+  {
+    "id": 19,
+    "title": "Contestação - Execução de Título Extrajudicial",
+    "type": "Contestação",
+    "tags": [
+      "execução",
+      "título extrajudicial",
+      "contestação",
+      "dívida"
+    ],
+    "date": "2024-06-20",
+    "env": "cloud",
+    "content": "EXMO. SR. DR. JUIZ DE DIREITO...\nO executado apresenta embargos à execução...\nAlega excesso de execução e prescrição..."
+  },
+  {
+    "id": 20,
+    "title": "Parecer sobre Recuperação Judicial",
+    "type": "Parecer",
+    "tags": [
+      "recuperação judicial",
+      "falência",
+      "empresa",
+      "crise"
+    ],
+    "date": "2024-10-01",
+    "env": "cloud",
+    "content": "PARECER JURÍDICO\nAnálise da viabilidade de recuperação judicial para empresa X...\nRequisitos e procedimentos..."
+  },
+  {
+    "id": 21,
+    "title": "Contrato de Trabalho - CLT",
+    "type": "Contrato",
+    "tags": [
+      "trabalho",
+      "clt",
+      "emprego",
+      "contrato"
+    ],
+    "date": "2023-08-01",
+    "env": "onprem",
+    "content": "CONTRATO INDIVIDUAL DE TRABALHO\nEmpregador: Empresa Y\nEmpregado: Zezinho\nFunção: Analista..."
+  },
+  {
+    "id": 22,
+    "title": "Petição de Usucapião Extraordinária",
+    "type": "Petição",
+    "tags": [
+      "usucapião",
+      "imóvel",
+      "posse",
+      "propriedade"
+    ],
+    "date": "2024-02-10",
+    "env": "onprem",
+    "content": "EXMO. SR. DR. JUIZ DE DIREITO DA VARA CÍVEL...\nRequer o reconhecimento da usucapião extraordinária...\nPosse mansa e pacífica por mais de 15 anos..."
+  },
+  {
+    "id": 23,
+    "title": "Contestação - Ação Revisional de Contrato",
+    "type": "Contestação",
+    "tags": [
+      "revisional",
+      "contrato",
+      "contestação",
+      "juros"
+    ],
+    "date": "2024-07-15",
+    "env": "cloud",
+    "content": "EXMO. SR. DR. JUIZ DE DIREITO...\nO réu contesta a ação revisional de contrato...\nAlega legalidade das cláusulas..."
+  },
+  {
+    "id": 24,
+    "title": "Parecer sobre Direito Autoral de Software",
+    "type": "Parecer",
+    "tags": [
+      "direito autoral",
+      "software",
+      "propriedade intelectual",
+      "registro"
+    ],
+    "date": "2024-11-01",
+    "env": "cloud",
+    "content": "PARECER JURÍDICO\nProteção do software por direito autoral...\nRegistro no INPI e implicações..."
+  },
+  {
+    "id": 25,
+    "title": "Contrato de Mútuo Feneratício",
+    "type": "Contrato",
+    "tags": [
+      "mútuo",
+      "empréstimo",
+      "juros",
+      "financeiro"
+    ],
+    "date": "2023-07-01",
+    "env": "onprem",
+    "content": "CONTRATO DE MÚTUO FENERATÍCIO\nMutuante: Banco X\nMutuário: Empresa Y\nValor: R$ 100.000,00 com juros de 1% a.m...."
+  },
+  {
+    "id": 26,
+    "title": "Petição de Habeas Corpus",
+    "type": "Petição",
+    "tags": [
+      "habeas corpus",
+      "liberdade",
+      "prisão",
+      "criminal"
+    ],
+    "date": "2024-04-20",
+    "env": "onprem",
+    "content": "EXMO. SR. DR. DESEMBARGADOR PRESIDENTE DO TRIBUNAL DE JUSTIÇA...\nImpetra habeas corpus em favor de Fulano de Tal...\nAlega ilegalidade da prisão..."
+  },
+  {
+    "id": 27,
+    "title": "Contestação - Ação de Indenização por Acidente de Trânsito",
+    "type": "Contestação",
+    "tags": [
+      "acidente",
+      "trânsito",
+      "indenização",
+      "contestação"
+    ],
+    "date": "2024-08-25",
+    "env": "cloud",
+    "content": "EXMO. SR. DR. JUIZ DE DIREITO...\nO réu contesta a ação de indenização por acidente de trânsito...\nAlega culpa exclusiva da vítima..."
+  },
+  {
+    "id": 28,
+    "title": "Parecer sobre Imunidade Tributária",
+    "type": "Parecer",
+    "tags": [
+      "imunidade",
+      "tributária",
+      "impostos",
+      "entidade"
+    ],
+    "date": "2024-12-01",
+    "env": "cloud",
+    "content": "PARECER JURÍDICO\nAnálise da imunidade tributária para entidade filantrópica...\nRequisitos constitucionais..."
+  },
+  {
+    "id": 29,
+    "title": "Contrato de Franquia",
+    "type": "Contrato",
+    "tags": [
+      "franquia",
+      "negócios",
+      "marca",
+      "expansão"
+    ],
+    "date": "2023-09-15",
+    "env": "onprem",
+    "content": "CONTRATO DE FRANQUIA\nFranqueador: Marca X\nFranqueado: Empresário Y\nObjeto: Exploração da marca..."
+  },
+  {
+    "id": 30,
+    "title": "Petição de Mandado de Segurança",
+    "type": "Petição",
+    "tags": [
+      "mandado de segurança",
+      "direito líquido e certo",
+      "ato coator",
+      "administrativo"
+    ],
+    "date": "2024-05-01",
+    "env": "onprem",
+    "content": "EXMO. SR. DR. JUIZ FEDERAL...\nImpetra mandado de segurança contra ato do Secretário...\nViolação de direito líquido e certo..."
+  },
+  {
+    "id": 31,
+    "title": "Contestação - Ação de Alimentos",
+    "type": "Contestação",
+    "tags": [
+      "alimentos",
+      "família",
+      "contestação",
+      "pensão"
+    ],
+    "date": "2024-09-10",
+    "env": "cloud",
+    "content": "EXMO. SR. DR. JUIZ DE DIREITO DA VARA DE FAMÍLIA...\nO réu contesta a ação de alimentos...\nAlega impossibilidade de pagar o valor pleiteado..."
+  },
+  {
+    "id": 32,
+    "title": "Parecer sobre Responsabilidade Civil do Médico",
+    "type": "Parecer",
+    "tags": [
+      "responsabilidade civil",
+      "médico",
+      "erro médico",
+      "saúde"
+    ],
+    "date": "2024-06-01",
+    "env": "cloud",
+    "content": "PARECER JURÍDICO\nAnálise da responsabilidade civil do médico em caso de erro...\nTeoria da culpa e ônus da prova..."
+  },
+  {
+    "id": 33,
+    "title": "Contrato de Cessão de Direitos Autorais",
+    "type": "Contrato",
+    "tags": [
+      "cessão",
+      "direitos autorais",
+      "obra",
+      "criação"
+    ],
+    "date": "2023-11-20",
+    "env": "onprem",
+    "content": "CONTRATO DE CESSÃO DE DIREITOS AUTORAIS\nCedente: Artista X\nCessionário: Empresa Y\nObjeto: Obra musical 'Canção da Liberdade'..."
+  },
+  {
+    "id": 34,
+    "title": "Petição de Ação de Cobrança",
+    "type": "Petição",
+    "tags": [
+      "cobrança",
+      "dívida",
+      "inadimplência",
+      "judicial"
+    ],
+    "date": "2024-03-25",
+    "env": "onprem",
+    "content": "EXMO. SR. DR. JUIZ DE DIREITO DA VARA CÍVEL...\nRequer a condenação do réu ao pagamento da dívida...\nContrato de prestação de serviços anexo..."
   }
 ]
