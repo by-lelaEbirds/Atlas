@@ -1,0 +1,61 @@
+[
+  {
+    "id": 1,
+    "title": "Contestação - Vício do Produto (Fogão: Forno com defeito)",
+    "type": "Contestação",
+    "tags": [
+      "vício",
+      "produto",
+      "fogão",
+      "forno",
+      "garantia",
+      "responsabilidade"
+    ],
+    "date": "2024-06-12",
+    "env": "onprem",
+    "content": "EXMO. SR. DR. JUIZ DE DIREITO...\\n1. Dos fatos: O autor adquiriu um fogão...\\n2. Do vício: verifica-se que o forno apresentou defeito...\\n3. Do direito: aplica-se o CDC art. 18 e 26...\\n4. Do pedido: seja julgada improcedente a ação..."
+  },
+  {
+    "id": 2,
+    "title": "Contrato de Compra e Venda - Eletrodomésticos (Atlas)",
+    "type": "Contrato",
+    "tags": [
+      "contrato",
+      "compra",
+      "venda",
+      "fornecedor",
+      "garantia"
+    ],
+    "date": "2023-11-03",
+    "env": "onprem",
+    "content": "CONTRATO DE COMPRA E VENDA\\nCláusula 1: As partes...\\nCláusula 2: Garantia mínima de 6 meses...\\nCláusula 3: Responsabilidades..."
+  },
+  {
+    "id": 3,
+    "title": "Petição Inicial - Troca de Produto com Vício",
+    "type": "Petição",
+    "tags": [
+      "troca",
+      "vício",
+      "defeito",
+      "consumidor"
+    ],
+    "date": "2025-01-10",
+    "env": "cloud",
+    "content": "PETIÇÃO INICIAL\\nO autor, por seu advogado, vem propor ação de troca...\\nFatos: em data X adquiriu um fogão que apresentou defeito no forno..."
+  },
+  {
+    "id": 4,
+    "title": "Parecer Jurídico - Responsabilidade por Produto Defeituoso",
+    "type": "Parecer",
+    "tags": [
+      "parecer",
+      "responsabilidade",
+      "fornecedor",
+      "culpa"
+    ],
+    "date": "2022-08-22",
+    "env": "onprem",
+    "content": "PARECER\\nQuestão: enquadramento da responsabilidade do fornecedor...\\nResumo: o fornecedor responde independentemente de culpa..."
+  }
+]
