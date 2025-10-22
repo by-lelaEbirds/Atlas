@@ -115,20 +115,6 @@
     "content": "CONTRATO DE LOCAÇÃO\nLocador: Fulano de Tal\nLocatário: Ciclano de Tal\nObjeto: Imóvel residencial na Rua X..."
   },
   {
-    "id": 10,
-    "title": "Petição de Alimentos Provisórios",
-    "type": "Petição",
-    "tags": [
-      "alimentos",
-      "provisórios",
-      "família",
-      "filhos"
-    ],
-    "date": "2024-02-28",
-    "env": "onprem",
-    "content": "EXMO. SR. DR. JUIZ DE DIREITO DA VARA DE FAMÍLIA...\nRequer a fixação de alimentos provisórios...\nNecessidade do menor e possibilidade do alimentante..."
-  },
-  {
     "id": 11,
     "title": "Contestação - Indenização por Danos Morais",
     "type": "Contestação",
@@ -407,20 +393,6 @@
     "date": "2024-05-01",
     "env": "onprem",
     "content": "EXMO. SR. DR. JUIZ FEDERAL...\nImpetra mandado de segurança contra ato do Secretário...\nViolação de direito líquido e certo..."
-  },
-  {
-    "id": 31,
-    "title": "Contestação - Ação de Alimentos",
-    "type": "Contestação",
-    "tags": [
-      "alimentos",
-      "família",
-      "contestação",
-      "pensão"
-    ],
-    "date": "2024-09-10",
-    "env": "cloud",
-    "content": "EXMO. SR. DR. JUIZ DE DIREITO DA VARA DE FAMÍLIA...\nO réu contesta a ação de alimentos...\nAlega impossibilidade de pagar o valor pleiteado..."
   },
   {
     "id": 32,
